@@ -2,7 +2,7 @@
 - organization:National Honors Society
   role: Members
   year: 2016 ; Present 
-  summary: National Honor Society is an organization where student with 3.6 or above get pick to do things around geogia and sometimes other states
+  summary: National Honor Society is an organization where student with 3.5 or above get pick to do things around geogia and sometimes other states
 
 
 - organization: Future Bussiness Leader of American
@@ -13,5 +13,10 @@
 
 -organization:  Student Government Association
  role: Vice president
- year:2016-2017
+ year:2016 ; 2017
  summary: where student bring new ideas in to the school and to apply 3.5 or higher
+ 
+ -organization: Math Club
+ role: member
+ year:2016; present
+ summary: Math Club is a Club that we practice math and competive in countywide math problem
